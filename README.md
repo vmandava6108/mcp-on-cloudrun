@@ -1,6 +1,7 @@
 # mcp-on-cloudrun
 gke mcp 
 
+
 MCP Tools
 cluster_toolkit: Creates AI optimized GKE Clusters.
 list_clusters: List your GKE clusters.
@@ -9,7 +10,7 @@ giq_generate_manifest: Generate a GKE manifest for AI/ML inference workloads usi
 list_recommendations: List recommendations for your GKE clusters.
 query_logs: Query Google Cloud Platform logs using Logging Query Language (LQL).
 get_log_schema: Get the schema for a specific GKE log type.
-MCP Context
+
 In addition to the tools above, a lot of value is provided through the bundled context instructions.
 
 Cost: The provided instructions allows the AI to answer many questions related to GKE costs, including queries related to clusters, namespaces, and Kubernetes workloads.
